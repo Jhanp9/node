@@ -21,4 +21,4 @@ app.get('/crear', async (_req, res) => {
   return res.send('ok')
 })
 
-app.listen(3000, () => console.log('listening...'))
+app.listen(3000, () => console.log('escu...'))
